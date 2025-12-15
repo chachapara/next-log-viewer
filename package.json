@@ -12,16 +12,11 @@
   },
   "keywords": [
     "nextjs",
-    "log viewer",
-    "logs",
-    "logs viewer",
-    "reactjs",
+    "next js log viewer",
+    "live log viewer",
+    "react log viewer",
     "sse",
-    "component"
-  ],
-  "files": [
-    "dist",
-    "README.md",
-    "LICENSE"
+    "server sent events",
+    "real time logs"
   ]
 }
