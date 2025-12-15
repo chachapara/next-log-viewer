@@ -18,5 +18,10 @@
     "reactjs",
     "sse",
     "component"
+  ],
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
   ]
 }
