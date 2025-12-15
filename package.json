@@ -6,7 +6,10 @@
   "author": "Sagar chachapara",
   "license": "MIT",
   "type": "module",
-  "repository": "github:chachapara/next-log-viewer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chachapara/next-log-viewer.git"
+  },
   "keywords": [
     "nextjs",
     "log viewer",
@@ -15,10 +18,5 @@
     "reactjs",
     "sse",
     "component"
-  ],
-  "files": [
-    "dist",
-    "README.md",
-    "LICENSE"
   ]
 }
