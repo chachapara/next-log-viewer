@@ -1,6 +1,6 @@
 {
   "name": "next-log-viewer",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Live log viewer component for Next.js using SSE",
   "main": "index.js",
   "author": "Sagar chachapara",
