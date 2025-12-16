@@ -119,5 +119,7 @@ Created with ❤️ by YOU.
 
 ## ⭐ Support
 
-If you like this package, please star ⭐ it on NPM and GitHub!
+If you like this package, please star ⭐ it on NPM and GitHub and support me on Buy Me a Coffee
+
+👉 https://buymeacoffee.com/chachapara
 

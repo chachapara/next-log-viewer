@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/chachapara/next-log-viewer.git"
   },
+  "funding": {
+    "type": "individual",
+    "url": "https://buymeacoffee.com/chachapara"
+  },
   "keywords": [
     "nextjs",
     "next js log viewer",
@@ -19,4 +23,5 @@
     "server sent events",
     "real time logs"
   ]
+  
 }
