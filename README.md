@@ -121,7 +121,3 @@ Created with ❤️ by YOU.
 
 If you like this package, please star ⭐ it on NPM and GitHub!
 
----
-
-# Want a GitHub version of README with screenshots & badges?
-I can generate it for you.
